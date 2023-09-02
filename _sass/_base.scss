@@ -1034,3 +1034,42 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.person_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.person_container h4, .person_container p {
+  flex: 1;
+  margin: 0;
+}
+
+.person_container p {
+  text-align: right;
+}
+
+@media (max-width: 540px) {
+  .person_container {
+    flex-direction: column;
+    text-align: center;
+    align-items: flex-start;
+  }
+
+  .person_container h4, .person_container p {
+    width: 100%;
+    text-align: left;
+  }
+
+  .person_container p {
+    text-align: right;
+  }
+}
+
+.person_group_title {
+  text-align: center; /* Center the text horizontally */
+  font-weight: bold; /* Make the text bold */
+  font-size: 24px; /* Adjust the font size as needed */
+}

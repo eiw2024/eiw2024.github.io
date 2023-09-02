@@ -1,0 +1,29 @@
+restss:
+  - name: Andrea Lodi
+    affiliation: Cornell Tech
+
+  - name: Shahrokh Valaee
+    affiliation: University of Toronto
+
+  - name: Melika Payvand
+    affiliation: UZH and ETH Zurich
+
+  - name: Mehdi Rezagholizadeh
+    affiliation: Huawei Noah’s Ark Lab
+
+  - name: Habib Hajimolahoseini
+    affiliation: Huawei Toronto Research Centre
+
+  - name: Mouloud Belbahri
+    affiliation: Layer6AI TDBank
+
+  - name: Mohammadreza Tayaranian
+    affiliation: McGill University
+
+main:
+  - name: Warren Gross
+    affiliation: McGill University
+
+  - name: Vahid Partovi Nia
+    affiliation: Polytechnique Montreal, Huawei Noah’s Ark Lab
+    
