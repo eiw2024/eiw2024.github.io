@@ -8,16 +8,16 @@ nav_order: 1
 ---
 **Corresponding Organizers**
 
-<div>
+<div class="img_group">
 {% for person in site.data.organizers.main %}
-    {% include committee_member.html %}
+    {% include committee_member_img.html %}
 {% endfor %}
 </div>
 
 --------------
 
-<div>
+<div class="img_group">
 {% for person in site.data.organizers.restss %}
-    {% include committee_member.html %}
+    {% include committee_member_img.html %}
 {% endfor %}
 </div>
