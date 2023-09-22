@@ -1,0 +1,27 @@
+- name: Diana Marculescu
+  affiliation: University of Texas at Austin
+  img: ../assets/people/diana.jpg
+
+- name: Yaoliang Yu
+  affiliation: University of Waterloo
+  img: ../assets/people/yaoliang.jpg
+
+- name: Baharan Mirzasoleiman
+  affiliation: UCLA
+  img: ../assets/people/baharan.jpg
+
+- name: Mohammad Rastegari
+  affiliation: Apple
+  img: ../assets/people/rastegari.jpg
+
+- name: Tim Dettmers
+  affiliation: University of Washington
+  img: ../assets/people/tim.webp
+
+- name: Sarath Chandar
+  affiliation: Polytechnique Montreal, MILA
+  img: ../assets/people/sarath.jpg
+
+- name: Lukas Cavigelli
+  affiliation: Huawei Zurich Research Center
+  img: ../assets/people/lukas.jpg
