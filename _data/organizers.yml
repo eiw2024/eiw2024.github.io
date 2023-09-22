@@ -27,6 +27,10 @@ restss:
     affiliation: McGill University
     img: ../assets/people/mreza.jpg
 
+  - name: Yuanhao Yu
+    affiliation: Huawei Noah’s Ark Lab
+    img: ../assets/people/yu.jpg
+
 main:
   - name: Warren Gross
     affiliation: McGill University
