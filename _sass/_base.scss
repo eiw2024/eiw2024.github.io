@@ -1094,3 +1094,69 @@ nav[data-toggle="toc"] {
   border: 1px solid var(--global-theme-color); /* Add a blue border (you can change the color) */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a subtle shadow for depth */
 }
+
+/* Styles for the right image */
+
+.imgheader-container {
+  height: 220px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Styles for the right image */
+.imgheader {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40%;
+  height: 100%;
+  background: url('https://aaai.org/wp-content/uploads/2023/04/Vancouver-1157634917-1000x667-1.jpg');
+  background-size: cover;
+  background-position: 100% 70%;
+}
+
+/* Styles for the gradient overlay */
+.gradient-overlay::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70%;
+  height: 100%;
+  background: linear-gradient(to right, var(--global-theme-color) 0%, var(--global-theme-color) 90%, transparent 100%);
+}
+
+.imgheader-text {
+  position: absolute;
+  width: 800px;
+  top: 50%;
+  left: 50%;
+  padding-left: 15px;
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+
+@media (max-width: 800px) {
+  .imgheader-text {
+      width: 100%; /* Fill the screen width for screens narrower than 300px */
+  }
+}
+
+/* Styles for the heading elements */
+.imgheader-text h1,
+.imgheader-text h2 {
+  color: #fff; /* Text color */
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 449px) {
+  .imgheader-text h1 {
+      font-size: 1.5rem; /* Adjust font size for h1 on smaller screens */
+  }
+
+  .imgheader-text h2 {
+      font-size: 1.2rem; /* Adjust font size for h2 on smaller screens */
+  }
+}
