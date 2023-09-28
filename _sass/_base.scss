@@ -1086,13 +1086,30 @@ nav[data-toggle="toc"] {
   margin-bottom: 10px;
 }
 
+@media (max-width: 620px) {
+  .img_group .img_containter {
+    width: 50%;
+  }
+}
+
 .img_group .img_containter .img_circle {
-  width: 150px; /* Adjust the size of the circle as needed */
-  height: 150px; /* Adjust the size of the circle as needed */
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   margin: 0 auto;
   border: 1px solid var(--global-theme-color); /* Add a blue border (you can change the color) */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a subtle shadow for depth */
+}
+
+@media (max-width: 450px) {
+  .img_group .img_containter .img_circle {
+    width: 100px;
+    height: 100px;
+  }
+
+  .img_group .img_containter h4 {
+    font-size: 1.3rem; /* Adjust font size for h1 on smaller screens */
+  }
 }
 
 /* Styles for the right image */
