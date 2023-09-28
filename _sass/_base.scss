@@ -1145,7 +1145,9 @@ nav[data-toggle="toc"] {
 
 /* Styles for the heading elements */
 .imgheader-text h1,
-.imgheader-text h2 {
+.imgheader-text h2,
+.imgheader-text h4
+ {
   color: #fff; /* Text color */
   margin: 0;
   padding: 0;
@@ -1159,4 +1161,8 @@ nav[data-toggle="toc"] {
   .imgheader-text h2 {
       font-size: 1.2rem; /* Adjust font size for h2 on smaller screens */
   }
+
+  .imgheader-text h4 {
+    font-size: 1rem; /* Adjust font size for h2 on smaller screens */
+}
 }
