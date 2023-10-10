@@ -1,0 +1,71 @@
+- start: "08:45"
+  end: "09:00"
+  title: "Opening Remarks"
+
+- start: "09:00"
+  end: "09:30"
+  title:
+    speaker: "Diana Marculescu"
+    event: "Invited Talk"
+
+- start: "09:30"
+  end: "10:00"
+  title:
+    speaker: "TBD"
+    event: "Invited Talk"
+
+- start: "10:00"
+  end: "10:30"
+  title:
+    speaker: "Baharan Mirzasoleiman"
+    event: "Invited Talk"
+
+- start: "10:30"
+  end: "11:00"
+  title: "Contributed Talks"
+
+- start: "11:00"
+  end: "12:00"
+  title: "Poster Discussion & Coffee Break"
+
+- start: "12:00"
+  end: "13:00"
+  title: "Lunch"
+
+- start: "13:00"
+  end: "13:30"
+  title:
+    speaker: "Mohammad Rastegari"
+    event: "Invited Talk"
+
+- start: "13:30"
+  end: "14:00"
+  title:
+    speaker: "Tim Dettmers"
+    event: "Invited Talk"
+
+- start: "14:00"
+  end: "14:30"
+  title:
+    speaker: "Dan Alistarh"
+    event: "Invited Talk"
+
+- start: "14:30"
+  end: "15:30"
+  title: "Open Discussion & Coffee Break"
+
+- start: "15:30"
+  end: "16:00"
+  title:
+    speaker: "Sarath Chandar"
+    event: "Invited Talk"
+
+- start: "16:00"
+  end: "16:30"
+  title:
+    speaker: "Lukas Cavigelli"
+    event: "Invited Talk"
+
+- start: "16:30"
+  end: "17:30"
+  title: "Panel Discussion"

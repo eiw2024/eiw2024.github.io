@@ -3,7 +3,7 @@ layout: page
 permalink: /organizers/
 title: Organizers
 nav: true
-nav_order: 2
+nav_order: 3
 # description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 ---
 **Corresponding Organizers**
