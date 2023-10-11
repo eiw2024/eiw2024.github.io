@@ -7,7 +7,7 @@
   img: ../assets/people/baharan.jpg
 
 - name: Mohammad Rastegari
-  affiliation: Apple
+  affiliation: Apple Inc.
   img: ../assets/people/rastegari.jpg
 
 - name: Tim Dettmers
@@ -21,3 +21,7 @@
 - name: Lukas Cavigelli
   affiliation: Huawei Zurich Research Center
   img: ../assets/people/lukas.jpg
+
+- name: Dan Alistarh
+  affiliation: IST Austria
+  img: ../assets/people/alistarh.jpg
