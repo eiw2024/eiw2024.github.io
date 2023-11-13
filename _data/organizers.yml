@@ -31,6 +31,10 @@ restss:
     affiliation: Huawei Noah’s Ark Lab
     img: ../assets/people/yu.jpg
 
+  - name: Ali Edalati
+    affiliation: Huawei Noah’s Ark Lab
+    img: ../assets/people/edalati.jpg
+
 main:
   - name: Warren Gross
     affiliation: McGill University
