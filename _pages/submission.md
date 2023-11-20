@@ -8,7 +8,7 @@ nav_order: 5
 
 ### Requirements
 
-* Submissions must follow AAAI2024 conference format ([author kit](https://aaai.org/authorkit24-2/)).
+* Submissions must be anonymous and follow AAAI2024 conference format ([author kit](https://aaai.org/authorkit24-2/)).
 * The content of the paper should not be longer than **4 pages**.
 * You are allowed to submit *arXiv.org* versions of submitted papers.
 * Already published papers are not encouraged for submission.
