@@ -6,6 +6,12 @@ nav: true
 nav_order: 5
 ---
 
+<div style="text-align: center;">
+  <a href="https://cmt3.research.microsoft.com/EIW2024" style="display: inline-block; background-color: #003973; padding: 10px; border-radius: 10px; text-decoration: none; color: white; font-weight: bold;">
+    Click Here for Submission
+  </a>
+</div>
+
 ### Requirements
 
 * Submissions must be anonymous and follow AAAI2024 conference format ([author kit](https://aaai.org/authorkit24-2/)).
@@ -14,7 +20,7 @@ nav_order: 5
 * Already published papers are not encouraged for submission.
 * Works presented at the main AAAI2024 conference should not be submitted.
 
-### [Submission Portal](https://cmt3.research.microsoft.com/EIW2024)
+### Submission Portal
 
 You can submit your works using our Microsoft CMT [portal](https://cmt3.research.microsoft.com/EIW2024).
 

@@ -24,3 +24,8 @@ This is an interdisciplinary research topic that covers the theory, hardware, an
 
 The workshop is part of the **38th Annual AAAI Conference on Artificial Intelligence** and will be held in **Vancouver, Canada**.
 
+<div style="text-align: center;">
+  <a href="/submission" style="display: inline-block; background-color: #003973; padding: 10px; border-radius: 10px; text-decoration: none; color: white; font-weight: bold;">
+    Submission Page
+  </a>
+</div>
