@@ -16,7 +16,7 @@ layout: default
               <table class="table table-sm table-borderless">
                 {% for item in site.data.dates %}
                 <tr>
-                  <th scope="row" style="padding-top: .2rem; padding-bottom: .2rem;">{{ item.date }}</th>
+                  <th scope="row" style="padding-top: .2rem; padding-bottom: .2rem;">{{ item.date | markdownify }}</th>
                   <td style="padding-top: .2rem; padding-bottom: .2rem;">{{ item.content | markdownify }}</td>
                 </tr>
                 {% endfor %}

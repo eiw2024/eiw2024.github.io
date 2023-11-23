@@ -24,4 +24,4 @@ nav_order: 5
 
 You can submit your works using our Microsoft CMT [portal](https://cmt3.research.microsoft.com/EIW2024).
 
-Submission deadline will be **Nov 24, 2023 at 23:55 (anywhere on earth)**.
+Submission deadline will be **~~Nov 24~~** **Dec 3, 2023 at 23:55 (anywhere on earth)**.
