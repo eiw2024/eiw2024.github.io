@@ -26,7 +26,7 @@
 
 - start: "11:00"
   end: "12:00"
-  title: "Poster Discussion & Coffee Break"
+  title: "Poster Discussion & Break"
 
 - start: "12:00"
   end: "13:00"
@@ -52,7 +52,7 @@
 
 - start: "14:30"
   end: "15:30"
-  title: "Open Discussion & Coffee Break"
+  title: "Open Discussion & Break"
 
 - start: "15:30"
   end: "16:00"
