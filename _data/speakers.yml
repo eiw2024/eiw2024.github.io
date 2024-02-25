@@ -22,6 +22,10 @@
 #   affiliation: IST Austria
 #   img: ../assets/people/alistarh.jpg
 
+- name: Pascal Poupart
+  affiliation: University of Waterloo
+  img: ../assets/people/pascal.png
+
 - name: Di Niu
   affiliation: University of Alberta
   img: ../assets/people/niu.jpg
