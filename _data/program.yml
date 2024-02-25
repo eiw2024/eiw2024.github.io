@@ -17,7 +17,7 @@
 - start: "10:00"
   end: "10:30"
   title:
-    speaker: "Baharan Mirzasoleiman"
+    speaker: "Pascal Poupart"
     event: "Invited Talk"
 
 - start: "10:30"
@@ -35,7 +35,7 @@
 - start: "13:00"
   end: "13:30"
   title:
-    speaker: "Mohammad Rastegari"
+    speaker: "TBD" #Mohammad Rastegari
     event: "Invited Talk"
 
 - start: "13:30"
@@ -47,7 +47,7 @@
 - start: "14:00"
   end: "14:30"
   title:
-    speaker: "Dan Alistarh"
+    speaker: "TBD" #Dan Alistarh
     event: "Invited Talk"
 
 - start: "14:30"
