@@ -11,7 +11,7 @@
 - start: "09:30"
   end: "10:00"
   title:
-    speaker: "Diana Marculescu, Mehdi Rezagholizadeh"
+    speaker: "Diana Marculescu <a href=\"/assets/slides/supmae.pdf\">(Slides)</a>, Mehdi Rezagholizadeh"
     event: "Nominated Papers"
 
 - start: "10:00"
