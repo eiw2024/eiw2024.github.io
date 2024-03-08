@@ -6,11 +6,11 @@ nav: true
 nav_order: 5
 ---
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <a href="https://cmt3.research.microsoft.com/EIW2024" style="display: inline-block; background-color: #003973; padding: 10px; border-radius: 10px; text-decoration: none; color: white; font-weight: bold;">
     Click Here for Submission
   </a>
-</div>
+</div> -->
 
 ### Requirements
 

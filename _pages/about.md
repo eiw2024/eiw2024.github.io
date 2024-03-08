@@ -17,23 +17,23 @@ news: true  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+<!-- 
 <div style="text-align: center;">
   <div style="display: inline-block; background-color: #003973; padding: 10px; border-radius: 10px; text-decoration: none; color: white; font-weight: bold;">
     The poster session is in room 301 (third floor). <br>
     Other sessions are held in room 210 (second floor).
   </div>
-</div>
+</div> -->
 
 
 The Edge Intelligence Workshop 2024 will focus on the edge deployment of large language and vision models; and how to make them more efficient in terms of **Data**, **Model**, **Training**, and **Inference** specially on edge devices.
 
 This is an interdisciplinary research topic that covers the theory, hardware, and software aspects of AI models, targeting large language and vision models.
 
-The workshop is part of the **38th Annual AAAI Conference on Artificial Intelligence** and will be held in **Vancouver, Canada**.
+The workshop is part of the **38th Annual AAAI Conference on Artificial Intelligence** and was held in **Vancouver, Canada**.
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <a href="/submission" style="display: inline-block; background-color: #003973; padding: 10px; border-radius: 10px; text-decoration: none; color: white; font-weight: bold;">
     Submission Page
   </a>
-</div>
+</div> -->

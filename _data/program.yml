@@ -1,6 +1,6 @@
 - start: "08:45"
   end: "09:00"
-  title: "Opening Remarks"
+  title: "Opening Remarks <a href=\"/assets/slides/opening.pdf\">(Slides)</a>"
 
 - start: "09:00"
   end: "09:30"
