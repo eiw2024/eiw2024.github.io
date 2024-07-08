@@ -1,0 +1,69 @@
+- title: "Characterizing Video Question Answering with Sparsified Inputs"
+  authors: "Shiyuan Huang, Robinson Piramuthu, Vicente Ordonez, Shih-Fu Chang, and Gunnar A Sigurdsson"
+  paper: https://arxiv.org/pdf/2311.16311
+  poster: /assets/posters/10.pdf
+
+- title: "Precision matters: Precision-aware ensemble for weakly supervised semantic segmentation"
+  authors: "Junsung Park and Hyunjung Shim"
+  paper: /assets/papers/11.pdf
+  poster: /assets/posters/11.pdf
+
+- title: "When Parameter-efficient Tuning Meets General-purpose Vision-language Models"
+  authors: "Yihang Zhai, Haixin Wang, Jianlong Chang, Xinlong Yang, Jinan Sun, Shikun Zhang, and Qi Tian"
+  paper: https://arxiv.org/pdf/2312.12458
+  poster: /assets/posters/12.pdf
+
+- title: "SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners"
+  authors: "Yihang Zhai, Haixin Wang, Jianlong Chang, Xinlong Yang, Jinan Sun, Shikun Zhang, and Qi Tian"
+  paper: https://arxiv.org/pdf/2205.14540
+  poster: /assets/posters/14.pdf
+
+- title: "Distilled ChatGPT Topic & Sentiment Modeling with Applications in Finance"
+  authors: "Mouloud Belbahri and Olivier Gandouet"
+  paper: /assets/papers/16.pdf
+  poster: /assets/posters/16.pdf
+
+- title: "GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer"
+  authors: "Urchade Zaratiana, Thierry Charnois, Nadi Tomeh, and Pierre Holat"
+  paper: https://arxiv.org/pdf/2311.08526
+  poster: /assets/posters/17.pdf
+
+- title: "Hyperparameter Optimization for Large Language Model Instruction-Tuning"
+  authors: "Christophe Tribes, Sacha Benarroch-Lelong, Peng Lu, and Ivan Kobyzev"
+  paper: https://arxiv.org/pdf/2312.00949
+  poster: /assets/posters/18.pdf
+
+- title: "Faster Inference of Integer SWIN Transformer by Removing the GELU Activation"
+  authors: "Mohammadreza Tayaranian, Seyyed Hasan Mozafari, James J. Clark, Brett H Meyer, and Warren Gross"
+  paper: https://arxiv.org/pdf/2402.01169
+  poster: /assets/posters/19.pdf
+
+- title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
+  authors: "Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, and Anthony Sarah"
+  paper: https://arxiv.org/pdf/2312.13301
+  poster: /assets/posters/20.pdf
+
+- title: "Robustness to distribution shifts of compressed networks for edge devices"
+  authors: "Lulan Shen, Ali Edalati, Brett H Meyer, Warren Gross, and James J. Clark"
+  paper: https://arxiv.org/pdf/2401.12014
+  poster: /assets/posters/22.pdf
+
+- title: "SkipViT: Speeding Up Vision Transformers with a Token-Level Skip Connection"
+  authors: "Foozhan Ataiefard, Walid Ahmed, Habib Hajimolahoseini, Saina Asani, Farnoosh Javadi, Mohammad Hassanpour, Omar Mohamed Awad, Austin Wen, Kangling Liu, and Yang Liu"
+  paper: https://arxiv.org/pdf/2401.15293
+  poster: /assets/posters/24.pdf
+
+- title: "Self-Supervised Vision Transformers Are Efficient Segmentation Learners for Imperfect Labels"
+  authors: "Seungho Lee, Seoungyoon Kang, and Hyunjung Shim"
+  paper: https://arxiv.org/pdf/2401.12535
+  poster: /assets/posters/27.pdf
+
+- title: "Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference Using Sorted Fine-Tuning (SoFT)"
+  authors: "Parsa Kavehzadeh, Mojtaba Valipour, Marzieh Tahaei, Ali Ghodsi, Boxing Chen, and Mehdi Rezagholizadeh"
+  paper: https://arxiv.org/pdf/2309.08968
+  poster: /assets/posters/29.pdf
+
+- title: "QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning"
+  authors: "Hossein Rajabzadeh, Mojtaba Valipour, Marzieh Tahaei, Hyock Ju Kwon, Ali Ghodsi, Boxing Chen, and Mehdi Rezagholizadeh"
+  paper: /assets/papers/30.pdf
+  poster: /assets/posters/30.pdf

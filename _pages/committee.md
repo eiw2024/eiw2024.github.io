@@ -3,7 +3,7 @@ layout: page
 permalink: /committee/
 title: Scientific Committee
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 <div class="person_group_title">
     Meta Reviewers

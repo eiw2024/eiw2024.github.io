@@ -3,7 +3,7 @@ layout: page
 permalink: /program/
 title: Program
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 <table>

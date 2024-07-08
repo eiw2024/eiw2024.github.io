@@ -1183,3 +1183,27 @@ nav[data-toggle="toc"] {
     font-size: 1rem; /* Adjust font size for h2 on smaller screens */
 }
 }
+
+.paper_entry {
+  margin-bottom: 20px;
+}
+
+.paper_entry h2 {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+.paper_entry p {
+  margin-bottom: 10px;
+}
+
+.paper_entry p a {
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
