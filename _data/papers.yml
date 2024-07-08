@@ -1,3 +1,15 @@
+- title: "QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning"
+  authors: "Hossein Rajabzadeh, Mojtaba Valipour, Marzieh Tahaei, Hyock Ju Kwon, Ali Ghodsi, Boxing Chen, and Mehdi Rezagholizadeh"
+  paper: /assets/papers/30.pdf
+  poster: /assets/posters/30.pdf
+  note: Best Paper Award
+
+- title: "SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners"
+  authors: "Feng Liang, Yangguang Li, and Diana Marculescu"
+  paper: https://arxiv.org/pdf/2205.14540
+  poster: /assets/posters/14.pdf
+  note: Best Poster Award
+
 - title: "Characterizing Video Question Answering with Sparsified Inputs"
   authors: "Shiyuan Huang, Robinson Piramuthu, Vicente Ordonez, Shih-Fu Chang, and Gunnar A Sigurdsson"
   paper: https://arxiv.org/pdf/2311.16311
@@ -12,11 +24,6 @@
   authors: "Yihang Zhai, Haixin Wang, Jianlong Chang, Xinlong Yang, Jinan Sun, Shikun Zhang, and Qi Tian"
   paper: https://arxiv.org/pdf/2312.12458
   poster: /assets/posters/12.pdf
-
-- title: "SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners"
-  authors: "Feng Liang, Yangguang Li, and Diana Marculescu"
-  paper: https://arxiv.org/pdf/2205.14540
-  poster: /assets/posters/14.pdf
 
 - title: "Distilled ChatGPT Topic & Sentiment Modeling with Applications in Finance"
   authors: "Mouloud Belbahri and Olivier Gandouet"
@@ -62,8 +69,3 @@
   authors: "Parsa Kavehzadeh, Mojtaba Valipour, Marzieh Tahaei, Ali Ghodsi, Boxing Chen, and Mehdi Rezagholizadeh"
   paper: https://arxiv.org/pdf/2309.08968
   poster: /assets/posters/29.pdf
-
-- title: "QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning"
-  authors: "Hossein Rajabzadeh, Mojtaba Valipour, Marzieh Tahaei, Hyock Ju Kwon, Ali Ghodsi, Boxing Chen, and Mehdi Rezagholizadeh"
-  paper: /assets/papers/30.pdf
-  poster: /assets/posters/30.pdf
